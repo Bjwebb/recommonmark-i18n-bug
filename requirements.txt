@@ -2,7 +2,7 @@ Babel==2.2.0
 CommonMark==0.5.4 # rq.filter: <=0.5.4
 Jinja2==2.8
 MarkupSafe==0.23
-Pygments==2.1
+Pygments==2.7.4
 Sphinx==1.4.2
 alabaster==0.7.7
 click==6.2
